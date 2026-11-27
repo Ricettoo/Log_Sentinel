@@ -1,0 +1,9 @@
+2026-11-25 10:00:01 INFO 10.0.0.1 ping ok
+2026-11-25 10:00:05 ERROR 10.0.0.2 link down eth0
+2026-11-25 10:00:09 WARN 10.0.0.3 cpu 90%
+2026-11-25 10:00:12 ERROR 10.0.0.2 timeout
+2026-11-25 10:00:15 INFO 10.0.0.4 interface up
+linha quebrada sem formato
+2026-11-25 10:00:20 ERROR 10.0.0.2 link down eth0
+2026-11-25 10:00:22 ERROR 10.0.0.5 bgp session reset
+2026-11-25 10:00:30 WARN 10.0.0.3 memoria 85%
